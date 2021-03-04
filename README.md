@@ -1,1 +1,1 @@
-# BackendForm
+##### This is a form that will help people register for a specific newsletter. This form has been connected to the Mailchimp API so that the responses can be easily recorded and stored in the Mailchimp Audience Section.
